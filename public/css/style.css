@@ -34,7 +34,7 @@ float: left;
 
 
 .header{
-	margin-top: 160px;
+	margin-top: 120px;
 	margin-bottom: 40px;
 }
 
@@ -57,7 +57,7 @@ font-weight: 700;
 h2{
 	text-align: center;
 	font-weight: 300;
-	font-size: 20px;
+	font-size: 16px;
 		color: #ffffff;
 
 }
@@ -69,7 +69,7 @@ h2 strong{
 
 
 .information{
-width: 480px;
+width: 400px;
 padding-top: 35px;
 margin: 0 auto;
 }
@@ -88,13 +88,13 @@ display: block;
 
 .form{
 position: relative;
-width: 478px;
+width: 408px;
 margin-top: 20px;
 }
 
 .field{
 background: url(../images/field.png) repeat;
-width: 448px;
+width: 368px;
 -webkit-border-radius: 30px;-moz-border-radius: 30px;border-radius: 30px;
 border: none;
 font-style: italic;
@@ -125,17 +125,18 @@ outline: none;
 }
 
 .submit{
-position: absolute;
-right: 15px;
-top: 13px;
-padding: 3px 10px;
--webkit-border-radius: 30px;-moz-border-radius: 30px;border-radius: 30px;
+padding: 12px 45px;
+-webkit-border-radius: 30px;
+-moz-border-radius: 30px;
+border-radius: 30px;
 background: #ffffff;
 border: none;
 font-family: 'Lato', sans-serif;
 font-size: 14px;
 font-weight: bold;
 cursor: pointer;
+margin: 0 auto;
+display: block;
 }
 
 
